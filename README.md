@@ -1,0 +1,2 @@
+# IdeaHarvetsingPOC
+Idea Harvesting POC
